@@ -24,3 +24,23 @@ Analyze the dataset and summarize key trends.
 Use bullet points and keep it under 100 words
 
 
+# How to Run the Code
+
+## Requirements
+- Python 3.9+
+- pip
+
+## Setup
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+pip install -r requirements.txt
+
+RUN
+Bash
+python app.py
+
+
+
+
+
